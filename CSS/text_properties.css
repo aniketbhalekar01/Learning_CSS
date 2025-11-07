@@ -1,0 +1,106 @@
+.prop_name {
+    color: crimson;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.heading1 {
+    color: red;
+    background-color: blue;
+    font-size: 40px;
+}
+
+.heading2 {
+    color: orangered;
+    background-color: black;
+    font-size: 50px;
+}
+
+.t_transform_upper {
+    text-transform: uppercase;
+}
+
+.t_transform_lower {
+    text-transform: lowercase;
+}
+
+.t_transform_capitalize {
+    text-transform: capitalize;
+}
+
+.t_center {
+    text-align: center;
+}
+
+.t_right {
+    text-align: right;
+}
+
+.t_left {
+    text-align: left;
+}
+
+.t_deco_under {
+    text-decoration: underline;
+}
+
+.t_deco_over {
+    text-decoration: overline;
+}
+
+.t_deco_line {
+    text-decoration: line-through;
+}
+
+.t_deco_all {
+    text-decoration: underline line-through overline;
+}
+
+.t_indent {
+    text-indent: 150px;
+}
+
+.letter_space {
+    letter-spacing: 20px;
+}
+
+.word_space {
+    word-spacing: 30px;
+}
+
+.line_height {
+    line-height: 30px;
+}
+
+.t_shadow1 {
+    font-size: 60px;
+    color: rgb(224, 36, 180);
+    letter-spacing: 20px;
+    text-shadow: 5px 3px 7px gray;
+    text-align: center;
+}
+
+.t_shadow2 {
+    font-size: 60px;
+    letter-spacing: 20px;
+    text-align: center;
+    color: blue;
+    text-shadow: 7px 4px 8px rgb(50, 81, 85);
+}
+.t_shadow3 {
+    font-size: 60px;
+    text-align: center;
+    color: whitesmoke;
+    letter-spacing: 15px;
+    text-shadow: 7px 8px 8px black;
+}
+.t_multiple_shodaow {
+    font-size: 60px;
+    color: rgb(246, 93, 4);
+    text-shadow: 2px 2px yellow,
+    3px 3px green,
+    4px 4px pink,
+    6px 6px brown;
+    text-align: center;
+
+}
