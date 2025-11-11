@@ -1,0 +1,14 @@
+.heading {
+    color: red;
+    background-color: black;
+}
+#heading {
+    color: yellow;
+    background-color: olivedrab;
+}
+.f-size {
+    font-size: 80px;
+}
+#f-size {
+    font-size: 300px;
+}

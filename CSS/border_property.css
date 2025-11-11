@@ -1,0 +1,34 @@
+.b_prop {
+    height: 400px;
+    width: 500px;
+    border: 5px solid black;
+}
+.b_prop2 {
+    height: 300px;
+    width: 300px;
+    border: 5px dotted red;
+}
+.b_prop3 {
+    height: 300px;
+    width: 300px;
+    border: 10px dashed blue;
+}
+.b_prop4 {
+    height: 300px;
+    width: 500px;
+    border: 10px double green;
+    border-radius: 100px 30px 100px 30px;
+    border-color: red yellow green blue;
+}
+.b_radius {
+    width: 500px;
+    border: 8px solid yellow;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 100px;
+    border-top-color: red;
+    border-left-color: yellow;
+    border-bottom-color: green;
+    border-left-color: blue;
+}
