@@ -1,0 +1,39 @@
+.hall {
+    height: 500px;
+    width: 500px;
+    background-color: antiquewhite;
+    border: 2px solid orange;
+    position: relative;
+    top: 70px;
+    left: 400px;
+}
+#tv {
+    height: 80px;
+    width: 160px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    left: 145px;
+    text-align: center;
+    
+}
+#sofa {
+    height: 50px;
+    width: 250px;
+    background-color: gray;
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    color: white;
+    text-align: center;
+}
+#fridge {
+    height: 150px;
+    width: 80px;
+    background-color: brown;
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+    color: white;
+    text-align: center;
+}

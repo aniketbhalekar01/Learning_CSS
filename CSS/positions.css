@@ -1,0 +1,36 @@
+.box {
+    height: 150px;
+    width: 150px;
+    background-color: grey;
+    border: 2px solid red;
+    margin-bottom: 20px;
+    color: white;
+}
+.heading {
+    background-color: black;
+    color: orangered;
+    text-align: center;
+}
+.box1 {
+    position: static;
+}
+.box2 {
+    position: relative;
+    top: 100px;
+    left: 300px;
+}
+.box3 {
+    position: absolute;
+    top: 100px;
+    left: 400px;
+}
+.box4 {
+    position: sticky;
+    top: 0;
+}
+.box5 {
+    position: fixed;
+    bottom: 0;
+    right: 20px;
+}
+

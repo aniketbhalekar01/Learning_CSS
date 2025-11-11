@@ -1,0 +1,29 @@
+.para1 {
+    border: 3px solid red;
+}
+.para2 {
+    border: 3px solid green;
+    padding: 40px;
+}
+.para3 {
+    border: 3px solid orangered;
+    padding: 40px;
+    margin: 100px;
+}
+.para4 {
+    border: 3px solid purple;
+    padding: 30px 60px 20px 10px;
+    margin: 30px 60px 10px 90px;
+}
+.heading {
+    text-align: center;
+    background-color: black;
+    color: orangered;
+    padding: 10px 0px;
+}
+.image {
+    width: 600px;
+    border: 5px solid orange;
+    padding: 30px 80px 20px 50px;
+    margin: 50px 30px 20px 100px;
+}
