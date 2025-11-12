@@ -1,0 +1,12 @@
+.container {
+    height: 800px;
+    width: 100%;
+    background-color: pink;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
