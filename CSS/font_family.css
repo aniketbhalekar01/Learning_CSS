@@ -1,0 +1,15 @@
+p {
+    font-size: 22px;
+}
+.f_family1 {
+    font-family: sans-serif;
+    font-weight: 900;
+}
+.f_family2 {
+    font-family: monospace;
+    font-weight: 700;
+}
+.f_family3 {
+    font-family: segoe UI;
+    font-weight: 100;
+}

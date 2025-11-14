@@ -1,0 +1,38 @@
+.heading {
+    background-color: black;
+    color: orangered;
+}
+.h_effect {
+    color: red;
+    font-size: 50px;
+}
+.h_effect:hover {
+    color: blue;
+    background-color: black;
+}
+.a_effect:active {
+    background-color: black;
+    color: orangered;
+}
+input:focus {
+    background-color: gray;
+    color: white;
+}
+a:visited {
+    color: green;
+}
+p {
+    font-size: 30px;
+}
+p::first-letter {
+    font-size: 45px;
+    color: red;
+}
+p::first-line {
+    color: purple;
+    text-decoration: underline;
+}
+p::selection {
+    background-color: yellow;
+    color: red;
+}

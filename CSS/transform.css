@@ -1,0 +1,48 @@
+.heading {
+    text-align:center;
+    background-color: black;
+    color: orangered;
+}
+.container {
+    height: 500px;
+    width:50%;
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    align-items: center;
+}
+.box {
+    height: 150px;
+    width: 150px;
+    background-color: purple;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 3s ease-in-out;
+}
+.box1:hover {
+    transform: translate(100px,300px);
+}
+.box2:hover {
+    transform: translateX(300px);
+}
+.box3:hover {
+    transform: translateY(200px);
+}
+.box4:hover {
+    transform: rotate(360deg);
+}
+.box5:hover {
+    transform: skew(20deg,80deg);
+}
+.box6:hover {
+    transform: scale(2);
+}
+.box7:hover {
+    transform: scale(1.5) rotate(180deg) translateX(100px);
+}
